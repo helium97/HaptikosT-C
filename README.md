@@ -1,6 +1,4 @@
-# Haptikos
-
-### Privacy Policy ###
+# Privacy Policy #
 Haptikós is a Free app built and provided by Elio Raineri at no cost. It is intended for use as is.
 
 ### Information We Collect ###
