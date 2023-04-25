@@ -8,4 +8,4 @@ The app app does not collect any personal information from its users. We respect
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
 
 ### Contact Us ###
-If you have any questions about our privacy policy, please contact us at hello@iamelio.com.
+If you have any questions about our privacy policy, please contact us at haptikos@iamelio.com.
